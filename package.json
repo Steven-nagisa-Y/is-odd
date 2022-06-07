@@ -1,0 +1,18 @@
+{
+  "name": "is-odd",
+  "version": "1.0.0",
+  "description": "return boolean value of given variable is odd. ",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "odd"
+  ],
+  "author": "Steven",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.1"
+  }
+}
