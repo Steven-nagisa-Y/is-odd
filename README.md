@@ -5,7 +5,7 @@
 ## Install
 
 ```shell
-npm i --save is-odd
+npm i --save @steven-y/is-odd
 ```
 
 ## Usage

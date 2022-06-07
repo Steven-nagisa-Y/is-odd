@@ -1,6 +1,6 @@
 {
-  "name": "is-odd",
-  "version": "1.0.0",
+  "name": "@steven-y/is-odd",
+  "version": "1.0.1",
   "description": "return the boolean value of Number X is or not odd. ",
   "type": "commonjs",
   "main": "index.js",
@@ -8,10 +8,14 @@
     "test": "jest"
   },
   "keywords": [
-    "odd"
+    "javascript",
+    "tool",
+    "odd",
+    "number"
   ],
-  "author": "Steven",
-  "license": "ISC",
+  "author": "steven-y",
+  "license": "MIT",
+  "repository": {"git": "https://github.com/Steven-nagisa-Y/is-odd"},
   "devDependencies": {
     "jest": "^28.1.1"
   }
