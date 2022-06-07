@@ -1,7 +1,7 @@
 {
   "name": "@steven-y/is-odd",
   "version": "1.0.1",
-  "description": "return the boolean value of Number X is or not odd. ",
+  "description": "return the boolean value of Number X is odd or not.",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {

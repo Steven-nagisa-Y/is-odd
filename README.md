@@ -1,6 +1,6 @@
 # is-odd
 
-> return the boolean value of Number X is or not odd.
+> return the boolean value of Number X is odd or not.
 
 ## Install
 
