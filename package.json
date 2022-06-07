@@ -1,7 +1,7 @@
 {
   "name": "is-odd",
   "version": "1.0.0",
-  "description": "return boolean value of given variable is odd. ",
+  "description": "return the boolean value of Number X is or not odd. ",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
